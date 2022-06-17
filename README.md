@@ -1,20 +1,20 @@
 # Bem vindo(a) ao meu perfil
 
-Olá, eu sou o Mateus Paiva, sou estudante de Engenharia de Computação
+Olá, eu sou o Mateus Paiva, estudante de Engenharia de Computação.
 
-## Meus hobbies
+## Meus hobbies:
 
-- Assistir futebol e NBA
-- Jogar FIFA
-- Assistir filmes e séries
-- Jogar fantasy game
+- Assistir futebol e NBA. 
+- Jogar FIFA.
+- Assistir filmes e séries.
+- Jogar Fantasy Game.
 
-## Atualmente estudando
+## Atualmente estudando:
 
-- Python
-- Flutter
-- Excel
+- Python.
+- Flutter.
+- Excel.
 
-## Meus contatos
+## Meus contatos:
 
-- GitHub @mateusopaiva
+- GitHub: @mateusopaiva
