@@ -13,7 +13,9 @@ Olá, eu sou o Mateus Paiva, estudante de Engenharia de Computação.
   <img align="center" alt="Mateus-C" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Mateus-Python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Mateus-Flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
-
+  <img align="center" alt="html" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+  <img align="center" alt="css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+  <img align="center" alt="javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
  
   <img align="right" alt="Mateus-Avatar" height="150" style="border-radius:50px;" src= "https://user-images.githubusercontent.com/106707389/181863920-b65a78eb-75aa-418f-8798-7198542cfc66.png">
  </div>
