@@ -6,7 +6,7 @@ Olá, eu sou o Mateus Paiva, estudante de graduação em Engenharia de Computaç
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusopaiva&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## 💻 Competências:
+## 💻 Habilidade:
 <div style="display: inline_block">
   <img align="center" alt="c" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="python" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -15,7 +15,9 @@ Olá, eu sou o Mateus Paiva, estudante de graduação em Engenharia de Computaç
   <img align="center" alt="css" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
   <img align="center" alt="javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-  <img align="center" alt="react" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img align="center" alt="pandas" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"/>
+  <img align="center" alt="numpy" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+          
   <img align="right" alt="Mateus-Avatar" height="150" style="border-radius:50px;" src= "https://user-images.githubusercontent.com/106707389/181863920-b65a78eb-75aa-418f-8798-7198542cfc66.png">
  </div>
           
