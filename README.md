@@ -25,5 +25,10 @@ Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering. I'm inte
 ## 🌐 Connect with me:
 <div>
   <a href="https://www.linkedin.com/in/mateusopaiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+</div><br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
