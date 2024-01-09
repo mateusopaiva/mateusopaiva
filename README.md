@@ -3,8 +3,8 @@ Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering. I'm inte
 
  <div align="center">
   <a href="https://github.com/mateusopaiva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusopaiva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusopaiva&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusopaiva&show_icons=true&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusopaiva&langs_count=3&theme=dark"/>
    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusopaiva&theme=dark" alt="mateusopaiva" />
   </a>
 </div>
@@ -26,3 +26,4 @@ Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering. I'm inte
 <div>
   <a href="https://www.linkedin.com/in/mateusopaiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
