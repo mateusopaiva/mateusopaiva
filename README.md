@@ -1,5 +1,5 @@
 # 👋 Welcome to my profile
-Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering. I'm interested in content related to technology, programming and especially data analysis. In my repository there are some projects of courses and studies that I have done.
+Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering at IFMS. Passionate about soccer, basketball, and technology, I have a strong interest in programming, web development, and data analysis. In my repositories, there are some projects from courses and studies that I have done.
 
  <div align="center">
   <a href="https://github.com/mateusopaiva">
