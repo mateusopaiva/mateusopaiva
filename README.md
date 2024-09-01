@@ -14,18 +14,13 @@ Olá, sou Mateus Paiva, aluno de graduação em Engenharia da Computação no IF
 ## 💻 Linguagens e Ferramentas:
 <div style="display: inline_block">
   <img align="right" alt="Mateus-Avatar" height="150" style="border-radius:50px;" src= "https://user-images.githubusercontent.com/106707389/181863920-b65a78eb-75aa-418f-8798-7198542cfc66.png">
- 
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
+
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
- </div><br>
+ </div><br><br>
           
 ## 🌐 Conecte-se comigo:
 <div>
