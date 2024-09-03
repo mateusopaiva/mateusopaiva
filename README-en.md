@@ -1,37 +1,25 @@
 <h6> Não fala inglês? <a href="https://github.com/mateusopaiva">Clique aqui</a> para ver essa página em português.</h6>
 
 # 👋 Welcome to my profile
-Hi, I'm Mateus Paiva, an undergraduate student in Computer Engineering at IFMS. Passionate about soccer, basketball, and technology, I have a strong interest in programming, web development, and data analysis. In my repositories, there are some projects from courses and studies that I have done.
+<p>As a Data Analyst, my focus is on transforming data into valuable insights. My journey in technology started with a degree in Computer Engineering, where I developed a solid foundation in problem-solving and programming.</p>
 
- <div align="center">
-  <a href="https://github.com/mateusopaiva">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusopaiva&show_icons=true&theme=dark"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusopaiva&langs_count=3&theme=dark"/>
-   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mateusopaiva&theme=dark" alt="mateusopaiva" />
-  </a>
-</div>
+<p>My curiosity drives me to continuously learn and enhance my skills, from creating data visualizations to optimizing decision-making processes.</p>
+
+- 👨‍💻 Always ready to tackle complex problems with data.
+- 📚 Continuous learner, currently expanding my knowledge in Data Analysis.
+- 🌍 Technology enthusiast, exploring how data shapes the future.
+- ⚽ Passionate about soccer, Vai Corinthians! ⚫️⚪️
+- 🏀 NBA fan.
 
 ## 💻 Languages and Tools:
 <div style="display: inline_block">
-  <img align="right" alt="Mateus-Avatar" height="150" style="border-radius:50px;" src= "https://user-images.githubusercontent.com/106707389/181863920-b65a78eb-75aa-418f-8798-7198542cfc66.png">
 
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
   ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
- </div><br><br>
+ </div>
           
 ## 🌐 Connect with me:
-<div>
-  <a href="https://www.linkedin.com/in/mateusopaiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  </picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateusopaiva/mateusopaiva/output/github-contribution-grid-snake-dark.svg">
-   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mateusopaiva/mateusopaiva/output/github-contribution-grid-snake.svg">
-   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mateusopaiva/mateusopaiva/output/github-contribution-grid-snake.svg">
- </picture>
-</div>
- 
+<a href="https://www.linkedin.com/in/mateusopaiva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
